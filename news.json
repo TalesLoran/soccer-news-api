@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Primeiro treino na Dinamarca",
     "description": "Lorena, do Grêmio, Duda Sampaio e Gabi Barbieri, do Inter, são as representantes do futebol gaúcho",
-    "image": "https://github.com/TalesLoran/soccer-news-api/blob/main/images/1.jpg",
+    "image": "https://raw.githubusercontent.com/TalesLoran/soccer-news-api/main/images/1.jpg",
     "link": "https://gauchazh.clicrbs.com.br/esportes/noticia/2022/06/com-jogadoras-da-dupla-gre-nal-selecao-brasileira-faz-primeiro-treino-na-dinamarca-cl4os0kvf00az019id4wt2jjy.html"
   },
   {
      "id": 2,
     "title": "Convocadas para a disputa da Copa América",
     "description": "Grupo também participará de dois amistosos preparatórios no mês de junho",
-    "image": "https://github.com/TalesLoran/soccer-news-api/blob/main/images/2.jpg",
+    "image": "https://raw.githubusercontent.com/TalesLoran/soccer-news-api/main/images/2.jpg",
     "link": "https://gauchazh.clicrbs.com.br/esportes/noticia/2022/06/com-goleira-do-gremio-e-meia-do-inter-selecao-brasileira-anuncia-convocadas-para-a-disputa-da-copa-america-cl4316iix00530167f4047mtp.html"
   },
   {
     "id": 3,
     "title": "Náutico e Sport empatam em 1 a 1 no primeiro jogo do mata-mata da Série A3",
     "description": "Jogo da volta será no próximo domingo, dia 26, na Ilha do Retiro. Quem vencer, avança para a segunda fase; em caso de novo empate, decisão será nos pênaltis",
-    "image": "https://github.com/TalesLoran/soccer-news-api/blob/main/images/3.jpg",
+    "image": "https://raw.githubusercontent.com/TalesLoran/soccer-news-api/main/images/3.jpg",
     "link": "https://ge.globo.com/pe/futebol/noticia/2022/06/19/nautico-e-sport-empatam-em-1-a-1-no-primeiro-jogo-do-mata-mata-da-serie-a3-do-brasileiro-feminino.ghtml"
   },
   {
     "id": 4,
     "title": "Jogadora do mês de maio no Brasileirão Feminino",
     "description": "Duda Sampaio recebeu a premiação nesta terça-feira",
-    "image": "https://github.com/TalesLoran/soccer-news-api/blob/main/images/4.jpg",
+    "image": "https://raw.githubusercontent.com/TalesLoran/soccer-news-api/main/images/4.jpg",
     "link": "https://gauchazh.clicrbs.com.br/esportes/inter/noticia/2022/06/meia-do-inter-e-eleita-pela-cbf-como-a-jogadora-do-mes-de-maio-no-brasileirao-feminino-cl4onp5ny008u01671idsb1fl.html"
   }
   
